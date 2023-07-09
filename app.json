@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "abril",
+    "slug": "abril",
+    "version": "1.0.0"
+  },
+  "assetBundlePatterns": ["**/*"]
+}
