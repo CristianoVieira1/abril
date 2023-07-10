@@ -39,7 +39,7 @@ Tecnologias que usei para desenvolver este cliente móvel
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
-- [Redux] (https://redux.js.org/introduction/getting-started)
+- [Redux](https://redux.js.org/introduction/getting-started)
 - [Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/docs/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
